@@ -1,4 +1,4 @@
-# intersecao
+# interseção
  Teste de interseção com python.
 
  # condicoes
