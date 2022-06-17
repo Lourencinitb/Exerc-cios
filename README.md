@@ -1,7 +1,7 @@
 # interseção
  Teste de interseção com python.
 
- # condicoes
+ # condições
 Teste de condicionais com inteiros.
 
 # Média
